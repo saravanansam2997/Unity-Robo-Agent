@@ -1,0 +1,13 @@
+{
+    "name": "RobotFacility.Runtime",
+    "rootNamespace": "RobotFacility",
+    "references": [
+        "Unity.TextMeshPro",
+        "Unity.Nuget.Newtonsoft-Json"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "autoReferenced": true
+}
